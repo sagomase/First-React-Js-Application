@@ -1,7 +1,8 @@
 
 ![delete list](https://user-images.githubusercontent.com/90255998/147398940-b3629066-78f7-4e70-aeb3-10ab589742ce.png)
-![all todos delete](https://user-images.githubusercontent.com/90255998/147398939-5b043961-da69-4f8d-8ed5-976fa215a646.png)
 ![add list](https://user-images.githubusercontent.com/90255998/147398941-59cb02f0-1f08-4244-a9f8-6e31e37a6c26.png)
+![all todos delete](https://user-images.githubusercontent.com/90255998/147398939-5b043961-da69-4f8d-8ed5-976fa215a646.png)
+
 
 
 
